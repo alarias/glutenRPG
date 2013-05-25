@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1369437980 source:/home/kris/codeblocks/projects/GlutenCurses/main.cpp
+	<ncurses.h>
+	<cstdlib>
+	<ctime>
+	<string>
+	"world.hpp"
+
+1368771871 /home/kris/codeblocks/projects/GlutenCurses/safeHouse.h
+
+1368771837 source:/home/kris/codeblocks/projects/GlutenCurses/safeHouse.cpp
+	"safeHouse.h"
+	<cstdlib>
+	<cstring>
+	<ctime>
+
+1369438783 /home/kris/codeblocks/projects/GlutenCurses/world.hpp
+
